@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className='maincntr'>
-        <h1>Cybersecurity : Introduction to Cybersecurity Overview of cybersecurity principles and practices</h1>
+        <h1 className='mainhd'>Cybersecurity : Introduction to Cybersecurity Overview of cybersecurity principles and practices</h1>
         <br></br>
 
 

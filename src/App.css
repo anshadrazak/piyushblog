@@ -8,3 +8,17 @@
 .image1{
   width: 100%;
 }
+
+
+@media (max-width: 768px) {
+  .maincntr{
+    width: 90%;
+  }
+  .mainhd{
+    font-size: 1.8em;
+  }
+
+  h2{
+    font-size: 1.5rem;
+  }
+}
